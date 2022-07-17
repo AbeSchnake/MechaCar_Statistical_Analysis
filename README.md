@@ -14,7 +14,7 @@ The total variance in PSI across all of the MechaCar lots is less than 100, and 
 ## T-Tests on Suspension Coil
 The t-tests on the suspension coil PSI indicate that the null hypothesis of the true mean PSI being equal to 1500 can't be rejected except in the case where lot 3 is tested separately from the other lots. In the case of lot 3, the null hypothesis CAN be rejected, and we can conclude that Lot 3's mean PSI is lower than 1500. This is an issue that needs to be adressed by the quality control team at Lot 3.
 
-![TOTAL IMAGE]()
+![TOTAL IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Total_ttest.png)
 ![LOT 1 IMAGE]()
 ![LOT 2 IMAGE]()
 ![LOT 3 IMAGE]()
