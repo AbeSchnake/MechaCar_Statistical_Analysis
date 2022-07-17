@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 Using a p-value of .05, Vehicle Length and Ground Clearance both provided a non-random amount of variance to the MPG, because their P-values are less than .05. The slope of the linear should not be zero, because there were 2 factors that contribute to MPG in this analysis and both are correlated positively with MPG. This analysis is a good prediction of the MPG of MechaCar cars because the model fits the data well.
 
-!DELIVERABLE 1 IMAGE(https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable_1.png)
+![DELIVERABLE 1 IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable_1.png)
 
 ## Summary Statistics on Suspension Coils
 The total variance in PSI across all of the MechaCar lots is less than 100, and Lot 1 and Lot 2 are both indivudually under 100. Lot 3 is not meeting the requirement that the variance be less than 100 however, as its variance is higher. Lot 3 needs to improve the quality control in its manufacturing process.
