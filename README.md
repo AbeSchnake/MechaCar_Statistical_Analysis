@@ -17,6 +17,6 @@ The t-tests on the suspension coil PSI indicate that the null hypothesis of the 
 ![TOTAL IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Total_ttest.png)
 ![LOT 1 IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Lot1_ttest.png)
 ![LOT 2 IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_ttest.png)
-![LOT 3 IMAGE]()
+![LOT 3 IMAGE](https://github.com/AbeSchnake/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_ttest.png)
 ## Study Design: MechaCar vs Competition
 In order for MechaCar to increase its appeal to environmentally conscious consumers, I propose a study in which the Miles per Gallon for MechaCar is compared to the EPA MPG data for brands in competition with MechaCar. The Null hypothesis will be that there is no difference between MechaCar's MPG stats and the compettion's MPG stats. We will take the arithmetic mean of MPG for each individual MechaCar model as well as the mean MPG across all of MechaCar's models. We will use EPA data to do the same for brands in competition with MechaCar, and do a series of 2 sample t-tests to compare different MechaCar models with equivalent competitor models, as well as an overall comparison of MechaCar MPG vs other brands' MPG. If the null hypothesis can be rejected and MechaCar comes out with better MPG statistics, that study will be great fodder for marketing materials.
